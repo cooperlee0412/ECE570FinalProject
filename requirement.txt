@@ -1,0 +1,1 @@
+Everything was done on google colab, please import the juypter file onto google colab and then hit "run all"
